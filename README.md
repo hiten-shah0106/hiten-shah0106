@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- ⚡ I'm currently pursuing diploma in Computer Technology.
+- ⚡ I'm currently pursuing a Diploma in Computer Technology.
 - 🔭 I’m currently studying at Sanjivani Group of Institues.
-- 🌱 I’m currently learning Data Structures and Algorithm.
+- 🌱 I’m currently learning MERN Stack
 
 <!--
 **hiten-shah0106/hiten-shah0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
